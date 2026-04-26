@@ -6,6 +6,11 @@ It's a Prove Of Concept of execute PIC shellcode BOF implementation as AdaptixC2
 
 In PIC-Get-Privileges is the modified version of the [original](https://github.com/paranoidninja/PIC-Get-Privileges) for additional I/O feature support.
 
+## 2025/04/26 Update:
+
+1. Fix the memory issue, now the allocated memory will be auto clean
+2. Add support for shellcode blind execution (with the new "--no-pipe" option)
+
 
 ## Usage
 
