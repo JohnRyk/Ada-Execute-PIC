@@ -8,7 +8,7 @@ In PIC-Get-Privileges is the modified version of the [original](https://github.c
 
 ## 2025/04/26 Update:
 
-1. Fix the memory issue, now the allocated memory will be auto release
+1. Fix the payload resident in memory issue, now the allocated memory will be auto release
 2. Add support for shellcode blind execution (with the new "--nopipe" option)
 
 
