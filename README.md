@@ -18,7 +18,8 @@ In PIC-Get-Privileges is the modified version of the [original](https://github.c
 
 ## Example
 
-<img width="845" height="216" alt="image" src="https://github.com/user-attachments/assets/dbbc6ac1-b142-4290-a64d-9abddab93685" />
+<img width="893" height="203" alt="image" src="https://github.com/user-attachments/assets/145944f5-d006-4643-9b23-9d39bb8d472b" />
+
 
 <img width="1393" height="518" alt="image" src="https://github.com/user-attachments/assets/437b4cf6-4706-43ba-9d1f-437159ad65db" />
 
