@@ -1,0 +1,6 @@
+_bin
+.vscode
+.cache/jb
+*.o
+*.bin
+*.exe
